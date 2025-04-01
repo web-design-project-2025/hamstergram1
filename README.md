@@ -34,6 +34,7 @@ Before you begin coding, make sure to **fork this repository** to your own GitHu
 
 ### 2. Project Structure
 
+```
 hamstergram/
 ├── data/
 │ ├── users.json ← Contains hamster user profiles
@@ -41,3 +42,4 @@ hamstergram/
 ├── index.html
 ├── style.css
 └── script.js ← Main JavaScript file to work in
+```
