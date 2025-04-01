@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "name": "HammyTheExplorer",
+      "id": 1,
+      "profile_image": "img/HammyTheExplorer.webp"
+    },
+    {
+      "name": "NibblesTheArtist",
+      "id": 2,
+      "profile_image": "img/NibblesTheArtist.webp"
+    },
+    {
+      "name": "GizmoTheInventor",
+      "id": 3,
+      "profile_image": "img/GizmoTheInventor.webp"
+    },
+    {
+      "name": "FluffyTheGourmet",
+      "id": 4,
+      "profile_image": "img/FluffyTheGourmet.webp"
+    },
+    {
+      "name": "SpikeTheAdventurer",
+      "id": 5,
+      "profile_image": "img/SpikeTheAdventurer.webp"
+    },
+    {
+      "name": "BellaTheArtist",
+      "id": 6,
+      "profile_image": "img/BellaTheArtist.webp"
+    },
+    {
+      "name": "Sir Whiskers the Explorer",
+      "id": 7,
+      "profile_image": "img/SirWhiskersTheExplorer.webp"
+    },
+    {
+      "name": "Madame Fluff\u00e9",
+      "id": 8,
+      "profile_image": "img/MadameFluffe.webp"
+    },
+    {
+      "name": "Flash the Sprinter",
+      "id": 9,
+      "profile_image": "img/FlashTheSprinter.webp"
+    },
+    {
+      "name": "Mighty Paws",
+      "id": 10,
+      "profile_image": "img/MightyPaws.webp"
+    },
+    {
+      "name": "Mayor Munchkins",
+      "id": 11,
+      "profile_image": "img/MayorMunchkins.webp"
+    }
+  ]
+}
